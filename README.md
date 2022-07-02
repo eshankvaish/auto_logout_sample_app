@@ -1,3 +1,3 @@
-# auto_logout_sample_app
+# Auto Logout Sample App
 
 Sample app for showcasing auto logout functionality in Flutter.
